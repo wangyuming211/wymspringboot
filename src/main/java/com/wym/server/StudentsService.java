@@ -7,4 +7,6 @@ public interface StudentsService {
      * @return
      */
     public String getName();
+
+    public Integer getAge();
 }

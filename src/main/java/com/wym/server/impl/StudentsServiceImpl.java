@@ -9,4 +9,9 @@ public class StudentsServiceImpl implements StudentsService {
     public String getName() {
         return null;
     }
+
+    @Override
+    public Integer getAge() {
+        return null;
+    }
 }
