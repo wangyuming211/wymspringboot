@@ -8,5 +8,9 @@ public interface StudentsService {
      */
     public String getName();
 
+    /**
+     * 获取当前用户年龄
+     * @return
+     */
     public Integer getAge();
 }
