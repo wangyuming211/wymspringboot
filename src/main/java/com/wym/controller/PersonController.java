@@ -20,7 +20,7 @@ public class PersonController {
     @RequestMapping("/getName")
     public String getName(){
 
-        System.out.println("springboot---");
+        System.out.println("springboot---0000");
 
         return studentsService.getName();
     }
