@@ -14,10 +14,13 @@ public class PersonController {
     public String say(){
 
         return "say string boot";
+
     }
 
     @RequestMapping("/getName")
     public String getName(){
+
+        System.out.println("springboot---");
 
         return studentsService.getName();
     }
