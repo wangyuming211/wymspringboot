@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.wym</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>wymspringb2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>wym_springboot</name>
 	<description>Demo project for Spring Boot</description>
