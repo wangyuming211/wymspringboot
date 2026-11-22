@@ -16,7 +16,7 @@ public class StudentsServiceImpl implements StudentsService {
     public Integer getAge() {
 
         ReentrantLock reentrantLock = null;
-        ThreadLocalMap threadLocalMap = null;
+        // ThreadLocalMap threadLocalMap = null;
         ThreadLocal threadLocal = new ThreadLocal();
         return null;
     }

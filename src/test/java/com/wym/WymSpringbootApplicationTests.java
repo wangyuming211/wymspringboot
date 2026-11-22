@@ -8,6 +8,7 @@ class WymSpringbootApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// sout
 	}
 
 }
